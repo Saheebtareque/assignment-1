@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.bg-color {
+    background-color: #20484F;
+    padding: 5px;
+}
+
+.white {
+    color:white;
+    margin-left: 20px;
+    font-size: 25px;
+    
+}
+
+ a {
+    text-decoration: none;
+}
+
+
+li {
+    list-style-type: none;
+    margin: 5px;
+    float: right;
+    
+}
+
+li a{
+    color: white;
+}
+
